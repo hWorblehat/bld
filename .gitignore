@@ -1,0 +1,18 @@
+# SBT
+project/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+out/
+.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Metals (VS Code & Atom)
+.metals/
+.bloop/
